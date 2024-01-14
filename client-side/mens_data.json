@@ -1,0 +1,462 @@
+{
+    "data": [
+        {
+            "_id": "648e150cb3d0e06189ce8960",
+            "title": "Basic Crew Neck T-Shirt",
+            "category": "Men",
+            "subcategory": "T-Shirts",
+            "brand": "H&M",
+            "price": 14.99,
+            "discount": 131,
+            "images": [
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1684476636_3277387.jpg?format=webp&w=640&dpr=1.5",
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1682772094_1107706.jpg?format=webp&w=640&dpr=1.5",
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1682772094_1113648.jpg?format=webp&w=640&dpr=1.5"
+            ],
+            "description": "Keep it simple and stylish with this basic crew neck t-shirt for men. The soft and lightweight fabric ensures a comfortable fit, while the classic design makes it a versatile piece for any occasion. Pair it with shorts or jeans for a casual and effortless look. Whether for a day at the beach or a casual outing, this basic t-shirt is a wardrobe staple.",
+            "rating": 4.2,
+            "total_rating": 50,
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "quantity": 80,
+            "__v": 0
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a01c",
+            "category": "Men",
+            "subcategory": "T-Shirts",
+            "title": "V-Neck Basic T-Shirt",
+            "description": "Add a versatile and comfortable piece to your wardrobe with this V-neck basic t-shirt for men. The soft and breathable fabric ensures a relaxed fit, while the V-neckline adds a modern touch. Pair it with jeans or shorts for a casual and laid-back look. Whether for a day out with friends or a weekend getaway, this V-neck t-shirt is a must-have.",
+            "brand": "Gap",
+            "price": 19.99,
+            "discount": 0,
+            "rating": 4.4,
+            "total_rating": 70,
+            "images": [
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1676442572_3301433.jpg?format=webp&w=640&dpr=1.5",
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1676442572_7275740.jpg?format=webp&w=640&dpr=1.5",
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1676442572_8247928.jpg?format=webp&w=640&dpr=1.5"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "quantity": 70
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a01f",
+            "category": "Men",
+            "subcategory": "T-Shirts",
+            "title": "Pocket Detail T-Shirt",
+            "description": "Add a touch of style to your casual looks with this pocket detail t-shirt for men. The soft and breathable fabric ensures all-day comfort, while the unique pocket design adds a trendy twist. Pair it with jeans or shorts for a laid-back and cool outfit. Whether for a day at the beach or a night out with friends, this pocket detail t-shirt is a versatile choice.",
+            "brand": "Zara",
+            "price": 24.99,
+            "discount": 0,
+            "rating": 4.5,
+            "total_rating": 80,
+            "images": [
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1685541018_3797226.jpg?format=webp&w=640&dpr=1.5",
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1685541018_3750732.jpg?format=webp&w=640&dpr=1.5",
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1685541018_9758320.jpg?format=webp&w=640&dpr=1.5"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "quantity": 60
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a016",
+            "category": "Men",
+            "subcategory": "T-Shirts",
+            "title": "Graphic Print T-Shirt",
+            "description": "Make a statement with this trendy graphic print t-shirt for men. The soft and breathable fabric ensures all-day comfort, while the eye-catching graphic adds a touch of personality to your outfit. Pair it with jeans or shorts for a casual and cool look. Whether for a day out with friends or a relaxed weekend, this graphic print t-shirt is a stylish choice.",
+            "brand": "Nike",
+            "price": 29.99,
+            "discount": 0,
+            "rating": 4.5,
+            "total_rating": 80,
+            "images": [
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1662130112_1367320.jpg?format=webp&w=640&dpr=1.5",
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1662130119_6086441.jpg?format=webp&w=640&dpr=1.5",
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1662130129_9566034.jpg?format=webp&w=640&dpr=1.5"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "quantity": 60
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a025",
+            "category": "Men",
+            "subcategory": "T-Shirts",
+            "title": "Henley Long Sleeve T-Shirt",
+            "description": "Upgrade your casual wardrobe with this henley long sleeve t-shirt for men. The soft and breathable fabric ensures all-day comfort, while the classic henley neckline adds a stylish touch. Pair it with jeans or chinos for a versatile and effortless look. Whether for a casual day at work or a weekend gathering, this henley t-shirt is a reliable choice.",
+            "brand": "Banana Republic",
+            "price": 34.99,
+            "discount": 0,
+            "rating": 4.4,
+            "total_rating": 70,
+            "images": [
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1684760981_4616619.jpg?format=webp&w=640&dpr=1.5",
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1683371833_2361202.jpg?format=webp&w=640&dpr=1.5",
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1683371833_7323804.jpg?format=webp&w=640&dpr=1.5"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "quantity": 70
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a021",
+            "category": "Men",
+            "subcategory": "Shirts",
+            "title": "Printed Short Sleeve Shirt",
+            "description": "Stay on-trend with this printed short sleeve shirt for men. The lightweight and breathable fabric make it perfect for warm weather, while the unique print adds a pop of personality to your outfit. Pair it with shorts or chinos for a stylish and casual look. Whether for a tropical vacation or a summer party, this printed short sleeve shirt is a must-have.",
+            "brand": "Topman",
+            "price": 49.99,
+            "discount": 0,
+            "rating": 4.6,
+            "total_rating": 90,
+            "images": [
+                "https://images.bewakoof.com/t1080/fly69-men-s-blue-striped-slim-fit-shirt-575267-1674653851-1.JPG",
+                "https://images.bewakoof.com/t1080/fly69-men-s-blue-striped-slim-fit-shirt-575267-1674653851-1.JPG",
+                "https://images.bewakoof.com/t1080/fly69-men-s-blue-striped-slim-fit-shirt-575267-1674653861-3.JPG"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "quantity": 55
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a01a",
+            "category": "Men",
+            "subcategory": "Jeans",
+            "title": "Straight Leg Denim Jeans",
+            "description": "Achieve a classic and timeless look with these straight leg denim jeans for men. The durable denim fabric ensures long-lasting wear, while the straight leg cut offers a comfortable fit. Pair them with a shirt or jacket for a versatile and stylish outfit. Whether for a casual day at work or a night out, these straight leg jeans are a reliable choice.",
+            "brand": "Wrangler",
+            "price": 69.99,
+            "discount": 10,
+            "rating": 4.6,
+            "total_rating": 90,
+            "images": [
+                "https://images.bewakoof.com/t1080/men-s-brown-slim-fit-jeans-567484-1672832249-5.jpg",
+                "https://images.bewakoof.com/t1080/men-s-brown-slim-fit-jeans-567484-1672832229-1.jpg",
+                "https://images.bewakoof.com/t1080/men-s-brown-slim-fit-jeans-567484-1672832239-3.jpg"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "quantity": 55
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a023",
+            "category": "Men",
+            "subcategory": "Jeans",
+            "title": "Relaxed Fit Denim Jeans",
+            "description": "Opt for comfort and style with these relaxed fit denim jeans for men. The relaxed fit offers a laid-back and comfortable feel, while the high-quality denim ensures durability. Pair them with a t-shirt or a hoodie for a casual and effortless look. Whether for a day of running errands or a weekend getaway, these relaxed fit jeans are a reliable choice.",
+            "brand": "GAP",
+            "price": 69.99,
+            "discount": 15,
+            "rating": 4.7,
+            "total_rating": 120,
+            "images": [
+                "https://images.bewakoof.com/t1080/men-s-blue-washed-slim-fit-jeans-582164-1677677121-2.JPG",
+                "https://images.bewakoof.com/t1080/men-s-blue-washed-slim-fit-jeans-582164-1677677116-1.JPG",
+                "https://images.bewakoof.com/t1080/men-s-blue-washed-slim-fit-jeans-582164-1677677126-3.JPG"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "quantity": 35
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a017",
+            "category": "Men",
+            "subcategory": "Jeans",
+            "title": "Slim Fit Denim Jeans",
+            "description": "Step up your denim game with these slim fit jeans for men. The high-quality denim fabric offers a comfortable and flattering fit, while the modern slim cut adds a stylish edge. Pair them with a t-shirt or shirt for a versatile and on-trend look. Whether for a casual day or a night out, these slim fit jeans are a must-have staple in your wardrobe.",
+            "brand": "Levi's",
+            "price": 79.99,
+            "discount": 10,
+            "rating": 4.3,
+            "total_rating": 70,
+            "images": [
+                "https://images.bewakoof.com/t1080/men-s-blue-washed-skinny-fit-jeans-567489-1672832060-5.jpg",
+                "https://images.bewakoof.com/t1080/men-s-blue-washed-skinny-fit-jeans-567489-1672832040-1.jpg",
+                "https://images.bewakoof.com/t1080/men-s-blue-washed-skinny-fit-jeans-567489-1672832045-2.jpg"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "quantity": 40
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a01e",
+            "category": "Men",
+            "subcategory": "Shirts",
+            "title": "Denim Button-Up Shirt",
+            "description": "Achieve a rugged and casual look with this denim button-up shirt for men. The durable denim fabric offers a comfortable and lived-in feel, while the button-up design allows for versatile styling options. Pair it with chinos or jeans for a relaxed yet stylish outfit. Whether for a weekend adventure or a casual gathering, this denim shirt is a wardrobe staple.",
+            "brand": "American Eagle",
+            "price": 79.99,
+            "discount": 10,
+            "rating": 4.3,
+            "total_rating": 70,
+            "images": [
+                "https://images.bewakoof.com/t1080/men-s-red-abstract-printed-slim-fit-shirt-534486-1659955161-5.jpg",
+                "https://images.bewakoof.com/t1080/men-s-red-abstract-printed-slim-fit-shirt-534486-1659955140-1.jpg",
+                "https://images.bewakoof.com/t1080/men-s-red-abstract-printed-slim-fit-shirt-534486-1659955151-3.jpg"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "quantity": 40
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a022",
+            "category": "Men",
+            "subcategory": "T-Shirts",
+            "title": "Striped Polo T-Shirt",
+            "description": "Add a touch of sophistication to your casual wardrobe with this striped polo t-shirt for men. The high-quality fabric offers comfort and durability, while the striped design adds a classic and timeless appeal. Pair it with jeans or shorts for a smart-casual look. Whether for a weekend brunch or a golf outing, this striped polo t-shirt is a stylish choice.",
+            "brand": "Lacoste",
+            "price": 79.99,
+            "discount": 10,
+            "rating": 4.9,
+            "total_rating": 180,
+            "images": [
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1683180975_6909514.jpg?format=webp&w=640&dpr=1.5",
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1682772584_4763877.jpg?format=webp&w=640&dpr=1.5",
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1682772584_5218185.jpg?format=webp&w=640&dpr=1.5"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "quantity": 30
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a027",
+            "category": "Men",
+            "subcategory": "Shirts",
+            "title": "Flannel Plaid Shirt",
+            "description": "Stay cozy and stylish with this flannel plaid shirt for men. The soft and warm flannel fabric makes it perfect for the colder months, while the classic plaid pattern adds a rugged and timeless look. Pair it with jeans or chinos for a casual and comfortable outfit. Whether for a weekend getaway or a bonfire night, this flannel plaid shirt is a wardrobe staple.",
+            "brand": "Carhartt",
+            "price": 79.99,
+            "discount": 0,
+            "rating": 4.5,
+            "total_rating": 80,
+            "images": [
+                "https://images.bewakoof.com/t1080/men-s-green-camouflage-shirt-516813-1663745156-1.jpg",
+                "https://images.bewakoof.com/t1080/men-s-green-camouflage-shirt-516813-1663745163-2.jpg",
+                "https://images.bewakoof.com/t1080/men-s-green-camouflage-shirt-516813-1663745175-4.jpg"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "quantity": 60
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a015",
+            "category": "Men",
+            "subcategory": "Shirts",
+            "title": "Classic Oxford Shirt",
+            "description": "Elevate your style with this classic oxford shirt for men. Crafted from high-quality cotton fabric, it offers comfort and durability. The timeless design features a button-down collar and a single chest pocket. Whether for a formal occasion or a smart-casual look, this oxford shirt is a versatile choice that pairs well with trousers or jeans.",
+            "brand": "Brooks Brothers",
+            "price": 89.99,
+            "discount": 15,
+            "rating": 4.7,
+            "total_rating": 120,
+            "images": [
+                "https://images.bewakoof.com/t1080/cream-men-s-half-sleeves-shirt-348535-1655834980-1.jpg",
+                "https://images.bewakoof.com/t1080/cream-men-s-half-sleeves-shirt-348535-1655834985-2.jpg",
+                "https://images.bewakoof.com/t1080/cream-men-s-half-sleeves-shirt-348535-1655834990-3.jpg"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "quantity": 50
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a01d",
+            "category": "Men",
+            "subcategory": "Jeans",
+            "title": "Slim Straight Denim Jeans",
+            "description": "Upgrade your denim collection with these slim straight denim jeans for men. The stretchy and comfortable fabric ensures a great fit, while the slim straight leg offers a modern and sleek silhouette. Pair them with a button-up shirt or a sweater for a stylish and versatile outfit. Whether for a casual day or a night on the town, these jeans are a go-to choice.",
+            "brand": "Calvin Klein",
+            "price": 89.99,
+            "discount": 15,
+            "rating": 4.7,
+            "total_rating": 120,
+            "images": [
+                "https://images.bewakoof.com/t1080/men-s-blue-washed-slim-fit-jeans-567480-1672832409-5.jpg",
+                "https://images.bewakoof.com/t1080/men-s-blue-washed-slim-fit-jeans-567480-1672832386-1.jpg",
+                "https://images.bewakoof.com/t1080/men-s-blue-washed-slim-fit-jeans-567480-1672832403-4.jpg"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "quantity": 45
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a024",
+            "category": "Men",
+            "subcategory": "Shirts",
+            "title": "Chambray Button-Up Shirt",
+            "description": "Add a touch of casual sophistication with this chambray button-up shirt for men. The lightweight and breathable fabric make it suitable for various seasons, while the button-up design allows for easy layering. Pair it with jeans or chinos for a versatile and stylish look. Whether for a casual office day or a weekend outing, this chambray shirt is a wardrobe essential.",
+            "brand": "J.Crew",
+            "price": 89.99,
+            "discount": 20,
+            "rating": 4.8,
+            "total_rating": 150,
+            "images": [
+                "https://images.bewakoof.com/t1080/bushirt-men-s-cadet-brown-printed-slim-fit-shirt-575249-1674643424-1.jpg",
+                "https://images.bewakoof.com/t1080/bushirt-men-s-cadet-brown-printed-slim-fit-shirt-575249-1674643429-2.jpg",
+                "https://images.bewakoof.com/t1080/bushirt-men-s-cadet-brown-printed-slim-fit-shirt-575249-1674643434-3.jpg"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "quantity": 25
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a018",
+            "category": "Men",
+            "subcategory": "Shirts",
+            "title": "Checked Button-Up Shirt",
+            "description": "Add a touch of sophistication to your wardrobe with this checked button-up shirt for men. The lightweight fabric keeps you comfortable throughout the day, while the classic checked pattern adds a timeless appeal. Pair it with chinos or jeans for a versatile and stylish outfit. Whether for a casual office look or a weekend brunch, this checked shirt is a wardrobe essential.",
+            "brand": "Ralph Lauren",
+            "price": 99.99,
+            "discount": 20,
+            "rating": 4.8,
+            "total_rating": 150,
+            "images": [
+                "https://images.bewakoof.com/t1080/men-s-black-horizontal-striped-slim-fit-shirt-563205-1671685770-1.JPG",
+                "https://images.bewakoof.com/t1080/men-s-black-horizontal-striped-slim-fit-shirt-563205-1671685775-2.JPG",
+                "https://images.bewakoof.com/t1080/men-s-black-horizontal-striped-slim-fit-shirt-563205-1671685770-1.JPG"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "quantity": 35
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a026",
+            "category": "Men",
+            "subcategory": "Jeans",
+            "title": "Skinny Fit Denim Jeans",
+            "description": "Get a sleek and modern look with these skinny fit denim jeans for men. The stretchy and comfortable fabric offers a flattering fit, while the skinny leg design adds a trendy appeal. Pair them with a dress shirt or a blazer for a polished and stylish outfit. Whether for a night out or a formal event, these skinny fit jeans are a fashionable choice.",
+            "brand": "Hudson",
+            "price": 99.99,
+            "discount": 10,
+            "rating": 4.3,
+            "total_rating": 70,
+            "images": [
+                "https://images.bewakoof.com/t1080/men-s-blue-slim-fit-distressed-jeans-521327-1658319746-5.JPG",
+                "https://images.bewakoof.com/t1080/men-s-blue-slim-fit-distressed-jeans-521327-1658319751-6.JPG",
+                "https://images.bewakoof.com/t1080/men-s-blue-slim-fit-distressed-jeans-521327-1658319735-3.JPG"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "quantity": 40
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a020",
+            "category": "Men",
+            "subcategory": "Jeans",
+            "title": "Bootcut Denim Jeans",
+            "description": "Get a timeless and classic look with these bootcut denim jeans for men. The high-quality denim fabric offers durability and comfort, while the bootcut style adds a touch of vintage flair. Pair them with a t-shirt or a dress shirt for a versatile and stylish outfit. Whether for a casual day or a night out, these bootcut jeans are a wardrobe essential.",
+            "brand": "Diesel",
+            "price": 109.99,
+            "discount": 0,
+            "rating": 4.2,
+            "total_rating": 50,
+            "images": [
+                "https://images.bewakoof.com/t1080/meghz-men-s-blue-washed-slim-fit-jeansdmd1163am-579133-1675836758-4.jpg",
+                "https://images.bewakoof.com/t1080/meghz-men-s-blue-washed-slim-fit-jeansdmd1163am-579133-1675836748-2.jpg",
+                "https://images.bewakoof.com/t1080/meghz-men-s-blue-washed-slim-fit-jeansdmd1163am-579133-1675836753-3.jpg"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "quantity": 80
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a01b",
+            "category": "Men",
+            "subcategory": "Shirts",
+            "title": "Striped Oxford Shirt",
+            "description": "Enhance your wardrobe with this striped oxford shirt for men. The premium cotton fabric ensures a soft and comfortable feel, while the classic striped pattern adds a touch of sophistication. Pair it with dress pants or jeans for a versatile and polished look. Whether for a business meeting or a special occasion, this striped oxford shirt is a refined choice.",
+            "brand": "Tommy Hilfiger",
+            "price": 119.99,
+            "discount": 0,
+            "rating": 4.9,
+            "total_rating": 180,
+            "images": [
+                "https://images.bewakoof.com/t1080/men-s-olive-green-self-designed-slim-fit-shirt-587048-1680782796-1.jpg",
+                "https://images.bewakoof.com/t1080/men-s-olive-green-self-designed-slim-fit-shirt-587048-1680782802-2.jpg",
+                "https://images.bewakoof.com/t1080/men-s-olive-green-self-designed-slim-fit-shirt-587048-1680782818-5.jpg"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "quantity": 30
+        }
+    ],
+    "totalCount": 19
+}

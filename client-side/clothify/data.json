@@ -1,0 +1,472 @@
+{
+    "data": [
+        {
+            "_id": "648e150cb3d0e06189ce8960",
+            "title": "Basic Crew Neck T-Shirt",
+            "category": "Men",
+            "subcategory": "T-Shirts",
+            "brand": "H&M",
+            "price": 14.99,
+            "discount": 131,
+            "images": [
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1684476636_3277387.jpg?format=webp&w=640&dpr=1.5",
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1682772094_1107706.jpg?format=webp&w=640&dpr=1.5",
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1682772094_1113648.jpg?format=webp&w=640&dpr=1.5"
+            ],
+            "description": "Keep it simple and stylish with this basic crew neck t-shirt for men. The soft and lightweight fabric ensures a comfortable fit, while the classic design makes it a versatile piece for any occasion. Pair it with shorts or jeans for a casual and effortless look. Whether for a day at the beach or a casual outing, this basic t-shirt is a wardrobe staple.",
+            "rating": 4.2,
+            "total_rating": 50,
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "quantity": 80,
+            "__v": 0
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a01c",
+            "category": "Men",
+            "subcategory": "T-Shirts",
+            "title": "V-Neck Basic T-Shirt",
+            "description": "Add a versatile and comfortable piece to your wardrobe with this V-neck basic t-shirt for men. The soft and breathable fabric ensures a relaxed fit, while the V-neckline adds a modern touch. Pair it with jeans or shorts for a casual and laid-back look. Whether for a day out with friends or a weekend getaway, this V-neck t-shirt is a must-have.",
+            "brand": "Gap",
+            "price": 19.99,
+            "discount": 0,
+            "rating": 4.4,
+            "total_rating": 70,
+            "images": [
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1676442572_3301433.jpg?format=webp&w=640&dpr=1.5",
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1676442572_7275740.jpg?format=webp&w=640&dpr=1.5",
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1676442572_8247928.jpg?format=webp&w=640&dpr=1.5"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "quantity": 70
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a02d",
+            "category": "Women",
+            "subcategory": "Top",
+            "brand": "H&M",
+            "title": "Striped Crop Top",
+            "description": "Get a trendy look with this striped crop top. The lightweight fabric and relaxed fit provide comfort, while the vibrant stripes add a stylish touch. Pair it with high-waisted jeans or a skirt for a chic and youthful outfit.",
+            "price": 19.99,
+            "discount": 0,
+            "rating": 4.4,
+            "total_rating": 60,
+            "images": [
+                "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8b%2F94%2F8b94e980e10b376e4dcf30f33c851a64b0680e2a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/fullscreen]",
+                "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F54%2Fd8%2F54d843d6a5df8a8db4d7413bcd107c3b531fde81.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/fullscreen]",
+                "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F34%2F58%2F3458e4cfcccf8d4bc86316b6f928eee7d5d67bcc.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_divided_new_clothes%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/fullscreen]"
+            ],
+            "sizes": [
+                "XS",
+                "S",
+                "M"
+            ],
+            "quantity": 35
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a03c",
+            "category": "Kids",
+            "subcategory": "T-Shirts",
+            "brand": "Adidas",
+            "title": "Graphic Print T-Shirt",
+            "description": "Let your little one show off their style with this graphic print t-shirt. The soft and comfortable fabric ensures all-day comfort, while the vibrant design adds a fun and playful touch.",
+            "price": 19.99,
+            "discount": 0,
+            "rating": 4.5,
+            "total_rating": 50,
+            "images": [
+                "https://assets.ajio.com/medias/sys_master/root/20220530/dOth/6294da0bf997dd03e24705c4/-1117Wx1400H-464401210-black-MODEL4.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20220530/kGLG/6294da0bf997dd03e247057c/-1117Wx1400H-464401210-black-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20220530/VrlI/6294da0bf997dd03e24705c5/-1117Wx1400H-464401210-black-MODEL3.jpg"
+            ],
+            "sizes": [
+                "2T",
+                "3T",
+                "4T"
+            ],
+            "quantity": 30
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a042",
+            "category": "Kids",
+            "subcategory": "T-Shirts",
+            "brand": "Puma Kids",
+            "title": "Logo Print T-Shirt",
+            "description": "Let your child showcase their athletic style with this logo print t-shirt. The soft and breathable fabric ensures comfort, while the bold logo adds a sporty and energetic vibe.",
+            "price": 19.99,
+            "discount": 0,
+            "rating": 4.6,
+            "total_rating": 60,
+            "images": [
+                "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/586960/92/mod03/fnd/IND/fmt/png/Essentials-Logo-Unisex-T-Shirt",
+                "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/586960/92/mod01/fnd/IND/fmt/png/Essentials-Logo-Unisex-T-Shirt",
+                "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1350,h_1350/global/586960/92/fnd/IND/fmt/png/Essentials-Logo-Unisex-T-Shirt"
+            ],
+            "sizes": [
+                "4T",
+                "5T",
+                "6"
+            ],
+            "quantity": 40
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a01f",
+            "category": "Men",
+            "subcategory": "T-Shirts",
+            "title": "Pocket Detail T-Shirt",
+            "description": "Add a touch of style to your casual looks with this pocket detail t-shirt for men. The soft and breathable fabric ensures all-day comfort, while the unique pocket design adds a trendy twist. Pair it with jeans or shorts for a laid-back and cool outfit. Whether for a day at the beach or a night out with friends, this pocket detail t-shirt is a versatile choice.",
+            "brand": "Zara",
+            "price": 24.99,
+            "discount": 0,
+            "rating": 4.5,
+            "total_rating": 80,
+            "images": [
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1685541018_3797226.jpg?format=webp&w=640&dpr=1.5",
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1685541018_3750732.jpg?format=webp&w=640&dpr=1.5",
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1685541018_9758320.jpg?format=webp&w=640&dpr=1.5"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "quantity": 60
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a029",
+            "category": "Women",
+            "subcategory": "T-Shirts",
+            "brand": "Nike",
+            "title": "Graphic Logo T-Shirt",
+            "description": "Stay comfortable and stylish with this graphic logo t-shirt. The soft and breathable fabric ensures all-day comfort, while the eye-catching logo adds a sporty vibe. Pair it with your favorite jeans or shorts for a casual and trendy look.",
+            "price": 24.99,
+            "discount": 15,
+            "rating": 4.7,
+            "total_rating": 120,
+            "images": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/99a3d946-d49a-4dad-b15c-6b45b6926bc2/dri-fit-tennis-tee-wxSDd5.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c941ab66-a407-4c4f-88fd-5dd4d03ec3fa/dri-fit-tennis-tee-wxSDd5.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2e91919d-ec65-4c45-ab52-d40dbdb54c20/dri-fit-tennis-tee-wxSDd5.png"
+            ],
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L"
+            ],
+            "quantity": 30
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a04a",
+            "category": "Kids",
+            "subcategory": "T-Shirts",
+            "brand": "Nike Kids",
+            "title": "Athletic Performance T-Shirt",
+            "description": "Get your child ready for sports and active play with this athletic performance t-shirt. The moisture-wicking fabric and comfortable fit ensure optimal performance and breathability.",
+            "price": 24.99,
+            "discount": 0,
+            "rating": 4.6,
+            "total_rating": 50,
+            "images": [
+                "https://assets.ajio.com/medias/sys_master/root/20220602/LEM9/6298d0bff997dd03e25c888b/-1117Wx1400H-469184727-black-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20220602/4pqR/6298db58f997dd03e25cbdc4/-1117Wx1400H-469184727-black-MODEL4.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20220602/4pqR/6298db58f997dd03e25cbdc4/-1117Wx1400H-469184727-black-MODEL4.jpg"
+            ],
+            "sizes": [
+                "3T",
+                "4T",
+                "5T"
+            ],
+            "quantity": 30
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a043",
+            "category": "Kids",
+            "subcategory": "Shirts",
+            "brand": "Carter's",
+            "title": "Chambray Button-Up Shirt",
+            "description": "Dress your child in style with this chambray button-up shirt. The soft and lightweight fabric ensures all-day comfort, while the versatile design makes it perfect for both casual and dressy occasions.",
+            "price": 24.99,
+            "discount": 10,
+            "rating": 4.4,
+            "total_rating": 50,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_c61a5460-3cf4-4b44-9c7e-00a72b97d544?wid=1000&hei=1000&qlt=80&fmt=webp",
+                "https://target.scene7.com/is/image/Target/GUEST_4916ded1-97ce-43b4-8423-09c3d2c4de44?wid=1000&hei=1000&qlt=80&fmt=webp",
+                "https://target.scene7.com/is/image/Target/GUEST_8f72cab7-2694-418c-b815-8718754b3289?wid=1000&hei=1000&qlt=80&fmt=webp"
+            ],
+            "sizes": [
+                "3",
+                "4",
+                "5"
+            ],
+            "quantity": 35
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a048",
+            "category": "Kids",
+            "subcategory": "Shirts",
+            "brand": "Carter's",
+            "title": "Denim Button-Up Shirt",
+            "description": "Give your child a cool and casual look with this denim button-up shirt. The soft and durable denim fabric offers comfort and style, making it perfect for everyday wear.",
+            "price": 24.99,
+            "discount": 10,
+            "rating": 4.5,
+            "total_rating": 60,
+            "images": [
+                "https://i.etsystatic.com/38353909/r/il/51dd8c/4602895493/il_1588xN.4602895493_tk1i.jpg",
+                "https://i.etsystatic.com/38353909/r/il/6e6b40/4555509970/il_1588xN.4555509970_g79f.jpg",
+                "https://i.etsystatic.com/38353909/r/il/11cc68/4555510176/il_1588xN.4555510176_cjxt.jpg"
+            ],
+            "sizes": [
+                "3",
+                "4",
+                "5"
+            ],
+            "quantity": 35
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a037",
+            "category": "Women",
+            "subcategory": "Top",
+            "brand": "Zara",
+            "title": "Off-Shoulder Crop Top",
+            "description": "Show off your trendy side with this off-shoulder crop top. The lightweight fabric and stylish design make it perfect for summer days. Pair it with high-waisted jeans or a skirt for a fashionable and flirty look.",
+            "price": 24.99,
+            "discount": 0,
+            "rating": 4.5,
+            "total_rating": 80,
+            "images": [
+                "https://assets.ajio.com/medias/sys_master/root/20220825/PRhs/6306b6fef997dd394c2218dc/-1117Wx1400H-464880909-white-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20220825/4cyS/6306b6fef997dd394c2218ff/-1117Wx1400H-464880909-white-MODEL2.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20220825/7anb/6306b6fef997dd394c221913/-1117Wx1400H-464880909-white-MODEL3.jpg"
+            ],
+            "sizes": [
+                "XS",
+                "S",
+                "M"
+            ],
+            "quantity": 30
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a03f",
+            "category": "Kids",
+            "subcategory": "T-Shirts",
+            "brand": "Nike Kids",
+            "title": "Sports Logo T-Shirt",
+            "description": "Keep your child active and comfortable with this sports logo t-shirt. The moisture-wicking fabric and sporty design make it ideal for sports activities or casual wear.",
+            "price": 24.99,
+            "discount": 0,
+            "rating": 4.3,
+            "total_rating": 35,
+            "images": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/112187f6-7db1-49de-b3a9-d0b2631b1330/sportswear-older-t-shirt-47jg9f.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6ab7b233-4815-49c0-a6be-974baf04c8d7/sportswear-older-t-shirt-47jg9f.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/97e287c8-2924-48ff-a092-45e21a0f873b/sportswear-older-t-shirt-47jg9f.png"
+            ],
+            "sizes": [
+                "3T",
+                "4T",
+                "5T"
+            ],
+            "quantity": 35
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a049",
+            "category": "Kids",
+            "subcategory": "Jeans",
+            "brand": "Levi's Kids",
+            "title": "Relaxed Fit Jeans",
+            "description": "Give your child a comfortable and relaxed look with these jeans. The relaxed fit and soft denim fabric provide all-day comfort, making them perfect for casual outings.",
+            "price": 29.99,
+            "discount": 0,
+            "rating": 4.3,
+            "total_rating": 45,
+            "images": [
+                "https://images.bestsellerclothing.in/data/only-kids/14-mar-2023/289874301_g0.jpg?width=1080&height=1355&mode=fill&fill=blur&format=auto",
+                "https://images.bestsellerclothing.in/data/only-kids/14-mar-2023/289874301_g1.jpg?width=1080&height=1355&mode=fill&fill=blur&format=auto",
+                "https://images.bestsellerclothing.in/data/only-kids/14-mar-2023/289874301_g3.jpg?width=1080&height=1355&mode=fill&fill=blur&format=auto"
+            ],
+            "sizes": [
+                "5",
+                "6",
+                "7"
+            ],
+            "quantity": 25
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a03d",
+            "category": "Kids",
+            "subcategory": "Shirts",
+            "brand": "GapKids",
+            "title": "Plaid Button-Up Shirt",
+            "description": "Dress your child in style with this plaid button-up shirt. The soft and breathable fabric ensures comfort, while the classic plaid pattern adds a touch of sophistication.",
+            "price": 29.99,
+            "discount": 10,
+            "rating": 4.2,
+            "total_rating": 40,
+            "images": [
+                "https://m.media-amazon.com/images/I/81A7JFf9+YL._AC_UY741_.jpg",
+                "https://m.media-amazon.com/images/I/81U0+C2X9XL._AC_UX569_.jpg",
+                "https://m.media-amazon.com/images/I/81Rp--4f9WL._AC_UY741_.jpg"
+            ],
+            "sizes": [
+                "4",
+                "5",
+                "6"
+            ],
+            "quantity": 25
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a041",
+            "category": "Kids",
+            "subcategory": "Jeans",
+            "brand": "Old Navy Kids",
+            "title": "Bootcut Jeans",
+            "description": "Give your child a stylish and comfortable look with these bootcut jeans. The stretchy denim fabric and bootcut design offer a flattering fit and ease of movement.",
+            "price": 29.99,
+            "discount": 0,
+            "rating": 4.2,
+            "total_rating": 55,
+            "images": [
+                "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F56%2F88%2F56889ff6611402a670f602bfaf32966176a11815.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_clothing_trousersjeans_jeans%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+                "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F51%2Fa1%2F51a1a78ba3e75a2037378d58f49271956a0a0789.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_clothing_trousersjeans_jeans%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/fullscreen]",
+                "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fae%2Fee%2Faeee4f865b5bed845be6dfd55aca92c67bcb051e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_clothing_trousersjeans_jeans%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/fullscreen]"
+            ],
+            "sizes": [
+                "7",
+                "8",
+                "10"
+            ],
+            "quantity": 25
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a016",
+            "category": "Men",
+            "subcategory": "T-Shirts",
+            "title": "Graphic Print T-Shirt",
+            "description": "Make a statement with this trendy graphic print t-shirt for men. The soft and breathable fabric ensures all-day comfort, while the eye-catching graphic adds a touch of personality to your outfit. Pair it with jeans or shorts for a casual and cool look. Whether for a day out with friends or a relaxed weekend, this graphic print t-shirt is a stylish choice.",
+            "brand": "Nike",
+            "price": 29.99,
+            "discount": 0,
+            "rating": 4.5,
+            "total_rating": 80,
+            "images": [
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1662130112_1367320.jpg?format=webp&w=640&dpr=1.5",
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1662130119_6086441.jpg?format=webp&w=640&dpr=1.5",
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1662130129_9566034.jpg?format=webp&w=640&dpr=1.5"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "quantity": 60
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a045",
+            "category": "Kids",
+            "subcategory": "T-Shirts",
+            "brand": "Puma Kids",
+            "title": "Round Neck T-Shirt",
+            "description": "Get your child ready for sports and activities with this performance t-shirt. The moisture-wicking fabric and comfortable fit ensure optimal performance and all-day comfort.",
+            "price": 29.99,
+            "discount": 15,
+            "rating": 4.5,
+            "total_rating": 65,
+            "images": [
+                "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/670134/25/mod03/fnd/IND/fmt/png/Small-World-T-Shirt-Kids",
+                "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1350,h_1350/global/670134/25/mod01/fnd/IND/fmt/png/Small-World-T-Shirt-Kids",
+                "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/670134/25/fnd/IND/fmt/png/Small-World-T-Shirt-Kids"
+            ],
+            "sizes": [
+                "5",
+                "6",
+                "7"
+            ],
+            "quantity": 25
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a032",
+            "category": "Women",
+            "subcategory": "Top",
+            "brand": "Forever 21",
+            "title": "Ruffled Sleeveless Top",
+            "description": "Get a feminine and playful look with this ruffled sleeveless top. The lightweight fabric and ruffled details add a touch of charm. Pair it with high-waisted jeans or a skirt for a cute and summery outfit.",
+            "price": 29.99,
+            "discount": 10,
+            "rating": 4.3,
+            "total_rating": 70,
+            "images": [
+                "https://assets.ajio.com/medias/sys_master/root/20221010/UxXx/63445ae7aeb269659c366116/-473Wx593H-465125250-pink-MODEL4.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20221010/5v9P/63445ae7aeb269659c366141/-1117Wx1400H-465125250-pink-MODEL2.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20221010/aH1F/63445ae7aeb269659c36611a/-473Wx593H-465125250-pink-MODEL5.jpg"
+            ],
+            "sizes": [
+                "XS",
+                "S",
+                "M"
+            ],
+            "quantity": 35
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a02e",
+            "category": "Women",
+            "subcategory": "T-Shirts",
+            "brand": "Adidas",
+            "title": "Logo Print T-Shirt",
+            "description": "Stay comfortable and stylish with this logo print t-shirt. The soft cotton fabric and regular fit ensure a relaxed feel. The iconic brand logo adds a sporty edge, making it a perfect choice for casual wear.",
+            "price": 29.99,
+            "discount": 10,
+            "rating": 4.6,
+            "total_rating": 90,
+            "images": [
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5e87f03a9f9340bb8c48aef200a899c4_9366/Centre_Stage_Cutout_Top_Black_II6085_21_model.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/47cb9a082b654f1f8042aef200a8d3de_9366/Centre_Stage_Cutout_Top_Black_II6085_01_laydown.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/daa2ead062704fb981e3aef200a8b8cb_9366/Centre_Stage_Cutout_Top_Black_II6085_41_detail.jpg"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L"
+            ],
+            "quantity": 25
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a025",
+            "category": "Men",
+            "subcategory": "T-Shirts",
+            "title": "Henley Long Sleeve T-Shirt",
+            "description": "Upgrade your casual wardrobe with this henley long sleeve t-shirt for men. The soft and breathable fabric ensures all-day comfort, while the classic henley neckline adds a stylish touch. Pair it with jeans or chinos for a versatile and effortless look. Whether for a casual day at work or a weekend gathering, this henley t-shirt is a reliable choice.",
+            "brand": "Banana Republic",
+            "price": 34.99,
+            "discount": 0,
+            "rating": 4.4,
+            "total_rating": 70,
+            "images": [
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1684760981_4616619.jpg?format=webp&w=640&dpr=1.5",
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1683371833_2361202.jpg?format=webp&w=640&dpr=1.5",
+                "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1683371833_7323804.jpg?format=webp&w=640&dpr=1.5"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "quantity": 70
+        }
+    ],
+    "totalCount": 56
+}

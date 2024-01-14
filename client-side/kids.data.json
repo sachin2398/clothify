@@ -1,0 +1,396 @@
+{
+    "data": [
+        {
+            "_id": "6481ddd2a730e9b1d2a6a03c",
+            "category": "Kids",
+            "subcategory": "T-Shirts",
+            "brand": "Adidas",
+            "title": "Graphic Print T-Shirt",
+            "description": "Let your little one show off their style with this graphic print t-shirt. The soft and comfortable fabric ensures all-day comfort, while the vibrant design adds a fun and playful touch.",
+            "price": 19.99,
+            "discount": 0,
+            "rating": 4.5,
+            "total_rating": 50,
+            "images": [
+                "https://assets.ajio.com/medias/sys_master/root/20220530/dOth/6294da0bf997dd03e24705c4/-1117Wx1400H-464401210-black-MODEL4.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20220530/kGLG/6294da0bf997dd03e247057c/-1117Wx1400H-464401210-black-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20220530/VrlI/6294da0bf997dd03e24705c5/-1117Wx1400H-464401210-black-MODEL3.jpg"
+            ],
+            "sizes": [
+                "2T",
+                "3T",
+                "4T"
+            ],
+            "quantity": 30
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a042",
+            "category": "Kids",
+            "subcategory": "T-Shirts",
+            "brand": "Puma Kids",
+            "title": "Logo Print T-Shirt",
+            "description": "Let your child showcase their athletic style with this logo print t-shirt. The soft and breathable fabric ensures comfort, while the bold logo adds a sporty and energetic vibe.",
+            "price": 19.99,
+            "discount": 0,
+            "rating": 4.6,
+            "total_rating": 60,
+            "images": [
+                "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/586960/92/mod03/fnd/IND/fmt/png/Essentials-Logo-Unisex-T-Shirt",
+                "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/586960/92/mod01/fnd/IND/fmt/png/Essentials-Logo-Unisex-T-Shirt",
+                "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1350,h_1350/global/586960/92/fnd/IND/fmt/png/Essentials-Logo-Unisex-T-Shirt"
+            ],
+            "sizes": [
+                "4T",
+                "5T",
+                "6"
+            ],
+            "quantity": 40
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a03f",
+            "category": "Kids",
+            "subcategory": "T-Shirts",
+            "brand": "Nike Kids",
+            "title": "Sports Logo T-Shirt",
+            "description": "Keep your child active and comfortable with this sports logo t-shirt. The moisture-wicking fabric and sporty design make it ideal for sports activities or casual wear.",
+            "price": 24.99,
+            "discount": 0,
+            "rating": 4.3,
+            "total_rating": 35,
+            "images": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/112187f6-7db1-49de-b3a9-d0b2631b1330/sportswear-older-t-shirt-47jg9f.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6ab7b233-4815-49c0-a6be-974baf04c8d7/sportswear-older-t-shirt-47jg9f.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/97e287c8-2924-48ff-a092-45e21a0f873b/sportswear-older-t-shirt-47jg9f.png"
+            ],
+            "sizes": [
+                "3T",
+                "4T",
+                "5T"
+            ],
+            "quantity": 35
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a043",
+            "category": "Kids",
+            "subcategory": "Shirts",
+            "brand": "Carter's",
+            "title": "Chambray Button-Up Shirt",
+            "description": "Dress your child in style with this chambray button-up shirt. The soft and lightweight fabric ensures all-day comfort, while the versatile design makes it perfect for both casual and dressy occasions.",
+            "price": 24.99,
+            "discount": 10,
+            "rating": 4.4,
+            "total_rating": 50,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_c61a5460-3cf4-4b44-9c7e-00a72b97d544?wid=1000&hei=1000&qlt=80&fmt=webp",
+                "https://target.scene7.com/is/image/Target/GUEST_4916ded1-97ce-43b4-8423-09c3d2c4de44?wid=1000&hei=1000&qlt=80&fmt=webp",
+                "https://target.scene7.com/is/image/Target/GUEST_8f72cab7-2694-418c-b815-8718754b3289?wid=1000&hei=1000&qlt=80&fmt=webp"
+            ],
+            "sizes": [
+                "3",
+                "4",
+                "5"
+            ],
+            "quantity": 35
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a048",
+            "category": "Kids",
+            "subcategory": "Shirts",
+            "brand": "Carter's",
+            "title": "Denim Button-Up Shirt",
+            "description": "Give your child a cool and casual look with this denim button-up shirt. The soft and durable denim fabric offers comfort and style, making it perfect for everyday wear.",
+            "price": 24.99,
+            "discount": 10,
+            "rating": 4.5,
+            "total_rating": 60,
+            "images": [
+                "https://i.etsystatic.com/38353909/r/il/51dd8c/4602895493/il_1588xN.4602895493_tk1i.jpg",
+                "https://i.etsystatic.com/38353909/r/il/6e6b40/4555509970/il_1588xN.4555509970_g79f.jpg",
+                "https://i.etsystatic.com/38353909/r/il/11cc68/4555510176/il_1588xN.4555510176_cjxt.jpg"
+            ],
+            "sizes": [
+                "3",
+                "4",
+                "5"
+            ],
+            "quantity": 35
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a04a",
+            "category": "Kids",
+            "subcategory": "T-Shirts",
+            "brand": "Nike Kids",
+            "title": "Athletic Performance T-Shirt",
+            "description": "Get your child ready for sports and active play with this athletic performance t-shirt. The moisture-wicking fabric and comfortable fit ensure optimal performance and breathability.",
+            "price": 24.99,
+            "discount": 0,
+            "rating": 4.6,
+            "total_rating": 50,
+            "images": [
+                "https://assets.ajio.com/medias/sys_master/root/20220602/LEM9/6298d0bff997dd03e25c888b/-1117Wx1400H-469184727-black-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20220602/4pqR/6298db58f997dd03e25cbdc4/-1117Wx1400H-469184727-black-MODEL4.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20220602/4pqR/6298db58f997dd03e25cbdc4/-1117Wx1400H-469184727-black-MODEL4.jpg"
+            ],
+            "sizes": [
+                "3T",
+                "4T",
+                "5T"
+            ],
+            "quantity": 30
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a03d",
+            "category": "Kids",
+            "subcategory": "Shirts",
+            "brand": "GapKids",
+            "title": "Plaid Button-Up Shirt",
+            "description": "Dress your child in style with this plaid button-up shirt. The soft and breathable fabric ensures comfort, while the classic plaid pattern adds a touch of sophistication.",
+            "price": 29.99,
+            "discount": 10,
+            "rating": 4.2,
+            "total_rating": 40,
+            "images": [
+                "https://m.media-amazon.com/images/I/81A7JFf9+YL._AC_UY741_.jpg",
+                "https://m.media-amazon.com/images/I/81U0+C2X9XL._AC_UX569_.jpg",
+                "https://m.media-amazon.com/images/I/81Rp--4f9WL._AC_UY741_.jpg"
+            ],
+            "sizes": [
+                "4",
+                "5",
+                "6"
+            ],
+            "quantity": 25
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a041",
+            "category": "Kids",
+            "subcategory": "Jeans",
+            "brand": "Old Navy Kids",
+            "title": "Bootcut Jeans",
+            "description": "Give your child a stylish and comfortable look with these bootcut jeans. The stretchy denim fabric and bootcut design offer a flattering fit and ease of movement.",
+            "price": 29.99,
+            "discount": 0,
+            "rating": 4.2,
+            "total_rating": 55,
+            "images": [
+                "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F56%2F88%2F56889ff6611402a670f602bfaf32966176a11815.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_clothing_trousersjeans_jeans%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+                "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F51%2Fa1%2F51a1a78ba3e75a2037378d58f49271956a0a0789.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_clothing_trousersjeans_jeans%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/fullscreen]",
+                "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fae%2Fee%2Faeee4f865b5bed845be6dfd55aca92c67bcb051e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_clothing_trousersjeans_jeans%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/fullscreen]"
+            ],
+            "sizes": [
+                "7",
+                "8",
+                "10"
+            ],
+            "quantity": 25
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a045",
+            "category": "Kids",
+            "subcategory": "T-Shirts",
+            "brand": "Puma Kids",
+            "title": "Round Neck T-Shirt",
+            "description": "Get your child ready for sports and activities with this performance t-shirt. The moisture-wicking fabric and comfortable fit ensure optimal performance and all-day comfort.",
+            "price": 29.99,
+            "discount": 15,
+            "rating": 4.5,
+            "total_rating": 65,
+            "images": [
+                "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/670134/25/mod03/fnd/IND/fmt/png/Small-World-T-Shirt-Kids",
+                "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1350,h_1350/global/670134/25/mod01/fnd/IND/fmt/png/Small-World-T-Shirt-Kids",
+                "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/670134/25/fnd/IND/fmt/png/Small-World-T-Shirt-Kids"
+            ],
+            "sizes": [
+                "5",
+                "6",
+                "7"
+            ],
+            "quantity": 25
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a049",
+            "category": "Kids",
+            "subcategory": "Jeans",
+            "brand": "Levi's Kids",
+            "title": "Relaxed Fit Jeans",
+            "description": "Give your child a comfortable and relaxed look with these jeans. The relaxed fit and soft denim fabric provide all-day comfort, making them perfect for casual outings.",
+            "price": 29.99,
+            "discount": 0,
+            "rating": 4.3,
+            "total_rating": 45,
+            "images": [
+                "https://images.bestsellerclothing.in/data/only-kids/14-mar-2023/289874301_g0.jpg?width=1080&height=1355&mode=fill&fill=blur&format=auto",
+                "https://images.bestsellerclothing.in/data/only-kids/14-mar-2023/289874301_g1.jpg?width=1080&height=1355&mode=fill&fill=blur&format=auto",
+                "https://images.bestsellerclothing.in/data/only-kids/14-mar-2023/289874301_g3.jpg?width=1080&height=1355&mode=fill&fill=blur&format=auto"
+            ],
+            "sizes": [
+                "5",
+                "6",
+                "7"
+            ],
+            "quantity": 25
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a040",
+            "category": "Kids",
+            "subcategory": "Shirts",
+            "brand": "H&M Kids",
+            "title": "Striped Button-Up Shirt",
+            "description": "Get your child ready for any occasion with this striped button-up shirt. The stylish striped pattern and comfortable fabric make it a versatile piece for both formal and casual wear.",
+            "price": 34.99,
+            "discount": 15,
+            "rating": 4.4,
+            "total_rating": 45,
+            "images": [
+                "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8e%2F6d%2F8e6d7ea9b746abae31e67a91b1641bfc2ad3edbd.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/fullscreen]",
+                "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc6%2Ff5%2Fc6f5a0d161b5d5df6e86d18ff6459c3f1a42cf62.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/fullscreen]",
+                "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa8%2F19%2Fa819f101278277cd3b32f01eb0105084544f49b1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/fullscreen]"
+            ],
+            "sizes": [
+                "6",
+                "7",
+                "8"
+            ],
+            "quantity": 30
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a044",
+            "category": "Kids",
+            "subcategory": "Jeans",
+            "brand": "GAP Kids",
+            "title": "Skinny Jeans",
+            "description": "Give your child a fashionable and comfortable look with these skinny jeans. The stretchy denim fabric and skinny fit silhouette provide a trendy and flattering style.",
+            "price": 34.99,
+            "discount": 0,
+            "rating": 4.7,
+            "total_rating": 70,
+            "images": [
+                "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fba%2F23%2Fba239fe8a20c759cd698622b1ae0f2bc41868d7e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F78%2F98%2F78985435b0e6587694142bd191f1ae01091309e4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fa0%2F37%2Fa037448a4c7bb4b18ddf030bc16cddec370ed0b4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+            ],
+            "sizes": [
+                "4",
+                "5",
+                "6"
+            ],
+            "quantity": 30
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a047",
+            "category": "Kids",
+            "subcategory": "Jeans",
+            "brand": "H&M Kids",
+            "title": "Distressed Jeans",
+            "description": "Give your child a trendy and edgy look with these distressed jeans. The distressed details and comfortable fit make them perfect for adding a touch of coolness to any outfit.",
+            "price": 34.99,
+            "discount": 0,
+            "rating": 4.2,
+            "total_rating": 50,
+            "images": [
+                "https://images.bestsellerclothing.in/data/only-kids/04-feb-2023/279441501_g0.jpg?width=1080&height=1355&mode=fill&fill=blur&format=auto",
+                "https://images.bestsellerclothing.in/data/only-kids/04-feb-2023/279441501_g1.jpg?width=1080&height=1355&mode=fill&fill=blur&format=auto",
+                "https://images.bestsellerclothing.in/data/only-kids/04-feb-2023/279441501_g3.jpg?width=1080&height=1355&mode=fill&fill=blur&format=auto"
+            ],
+            "sizes": [
+                "6",
+                "7",
+                "8"
+            ],
+            "quantity": 30
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a04b",
+            "category": "Kids",
+            "subcategory": "Shirts",
+            "brand": "Polo Ralph Lauren Kids",
+            "title": "Gingham Check Shirt",
+            "description": "Dress your child in timeless style with this gingham check shirt. The soft and breathable fabric offers comfort, while the classic check pattern adds a touch of sophistication.",
+            "price": 34.99,
+            "discount": 15,
+            "rating": 4.4,
+            "total_rating": 40,
+            "images": [
+                "https://i.etsystatic.com/18179495/r/il/25b134/4244421106/il_1588xN.4244421106_cy68.jpg",
+                "https://i.etsystatic.com/18179495/r/il/ace2a7/4214854479/il_1588xN.4214854479_aly3.jpg",
+                "https://i.etsystatic.com/18179495/r/il/3186ee/4214854383/il_1588xN.4214854383_jmyr.jpg"
+            ],
+            "sizes": [
+                "6",
+                "7",
+                "8"
+            ],
+            "quantity": 20
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a03e",
+            "category": "Kids",
+            "subcategory": "Jeans",
+            "brand": "Levi's Kids",
+            "title": "Slim Fit Jeans",
+            "description": "Give your child a trendy and comfortable look with these slim fit jeans. The durable denim fabric and slim fit silhouette make them perfect for everyday wear.",
+            "price": 39.99,
+            "discount": 0,
+            "rating": 4.6,
+            "total_rating": 60,
+            "images": [
+                "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8f%2F7f%2F8f7f3b6f9c20d4c6a652ab3a6db79fa8a6c98919.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fc2%2Fd8%2Fc2d874940dd0706854b35352eafa844ebe4a96ba.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F70%2F32%2F7032734d11af6c5c7fe7642561444b08b93427fb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+            ],
+            "sizes": [
+                "5",
+                "6",
+                "7"
+            ],
+            "quantity": 20
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a046",
+            "category": "Kids",
+            "subcategory": "Shirts",
+            "brand": "Tommy Hilfiger Kids",
+            "title": "Striped Polo Shirt",
+            "description": "Dress your child in classic style with this striped polo shirt. The soft and breathable fabric offers comfort, while the timeless striped design adds a touch of sophistication.",
+            "price": 39.99,
+            "discount": 0,
+            "rating": 4.3,
+            "total_rating": 40,
+            "images": [
+                "https://cdn.fcglcdn.com/brainbees/images/products/438x531/12747975d.webp",
+                "https://cdn.fcglcdn.com/brainbees/images/products/438x531/12747975c.webp",
+                "https://cdn.fcglcdn.com/brainbees/images/products/56x69/12747975b.webp"
+            ],
+            "sizes": [
+                "8",
+                "10",
+                "12"
+            ],
+            "quantity": 20
+        },
+        {
+            "_id": "6481ddd2a730e9b1d2a6a04c",
+            "category": "Kids",
+            "subcategory": "Jeans",
+            "brand": "GAP Kids",
+            "title": "Straight Leg Jeans",
+            "description": "Give your child a versatile and comfortable look with these straight leg jeans. The durable denim fabric and classic straight leg design make them perfect for any occasion.",
+            "price": 39.99,
+            "discount": 0,
+            "rating": 4.2,
+            "total_rating": 55,
+            "images": [
+                "https://images.bestsellerclothing.in/data/JJ/19-jan-2023/101915702_g0.jpg?width=1080&height=1355&mode=fill&fill=blur&format=auto",
+                "https://images.bestsellerclothing.in/data/JJ/19-jan-2023/101915702_g1.jpg?width=1080&height=1355&mode=fill&fill=blur&format=auto",
+                "https://images.bestsellerclothing.in/data/JJ/19-jan-2023/101915702_g3.jpg?width=1080&height=1355&mode=fill&fill=blur&format=auto"
+            ],
+            "sizes": [
+                "7",
+                "8",
+                "10"
+            ],
+            "quantity": 25
+        }
+    ],
+    "totalCount": 17
+}
